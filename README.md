@@ -1,4 +1,4 @@
-# :sparkles:	Pottery-Shop :sparkles:	 
+# :sparkles:	Pottery-Shop :amphora: :sparkles:	 
   
 ## :page_facing_up: Brief
  **:zap: Construct a eCommerce site with a 3tier architectural pattern: frontend, backend and database using JavaScript and Json. <br>
@@ -7,7 +7,7 @@
 
 
 ## :card_index_dividers: Project Setup 
- **:zap: Research on how to build an eCommerce site with MERN . <br>
+ **:zap: Research on how to build an eCommerce site with MERN. <br>
  :zap: Share and store code with GIT and GitHub. <br>
  :zap: Structure project timeline and schedule.**<br>
 
@@ -22,10 +22,9 @@
 ## :mechanical_arm: Skills developed
  **:zap: Store, structure and retrive data in the document database MongoDB.   <br> 
   :zap: Building a dynamic single page application with React, connect the Components to data on my backend server and render them as HTML. <br>
- :zap: Understanding the functions of Express.js, the web framework for Node.js, building the backend of a site using Node.js functions and structures. It helps to easily handle HTTP requests and responses.<br>        
- :zap: Express.js runs on Node.js which works extremely well with MongoDB.         
- :zap: This combination makes the JSON data flow **<br>
+ :zap: Understanding the functions of Express.js, the web framework for Node.js, building the backend of a site using Node.js functions and structures. It helps to easily handle HTTP requests and responses.**<br>        
+
             
  ## :dancing_women: Team 
-# individual project
+   **:zap:individual project**
 
