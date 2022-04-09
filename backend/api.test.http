@@ -1,0 +1,32 @@
+POST http://localhost:4649/pottery
+Content-Type: application/json
+
+{
+    "_id":"potterycourse",
+    "url":"/images/potterycourse1.jpg",
+    "title":"Pottery Course",
+    "time":"evenings",
+    "item":"course",
+    "level":"beginner",
+    "containsteacher":"true",
+    "price":"€ 250"
+}
+
+###getting pottery
+GET http://localhost:4649/pottery
+
+###Search title
+GET http://localhost:4649/pottery?title=course1&time=evening
+
+###
+DELETE http://localhost:4649/pottery/potterycourse
+
+
+
+###
+PATCH http://localhost:4649/pottery/potterycourse2
+Content-Type: application/json
+
+{
+    "price":"€ 225"
+}
