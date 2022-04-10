@@ -1,8 +1,8 @@
 # :sparkles:	Pottery-Shop :amphora: :sparkles:	 
   
 ## :page_facing_up: Brief
- **:zap: Construct a eCommerce site with a 3tier architectural pattern: frontend, backend and database using JavaScript and Json. <br>
-   :zap: My idea: Pottery Shop where the customer could purchase pottery courses, tours and cheramics. I decided to
+ **:zap: Construct a eCommerce site with a 3tier architectural pattern: frontend, backend and database. <br>
+   :zap: Project: Pottery Shop with items, cart and admin function. I decided to
    use the MERN stack.** <br>
 
 
